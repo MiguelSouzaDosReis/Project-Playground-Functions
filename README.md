@@ -1,4 +1,4 @@
-# Project-Playground-Functions
+# Project Playground Functions
 
 Nesse projeto eu aprendi a como utiliza o javaScript para resolver os problemas de logica. Na pasta src contem os meus códigos de resolução do problema, já a pasta teste é uma pasta que contem os teste da Trybe para verfica se a resulução do problema está correta
 
